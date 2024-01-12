@@ -1,0 +1,26 @@
+wav_filename;wav_filesize;transcript
+fname1;1600;hi this is text 1
+fname2;2000;hi this is text 2
+
+
+;"¿Me puedes ayudar?"; petición
+;"¿Me das un beso?"; petición
+;"¿Me compras un helado?"; petición
+;"Sí, quiero."; afirmación
+;"Lo haré."; afirmación
+;"Me gusta."; afirmación
+;"No, no quiero."; negación
+;"No lo haré."; negación
+;"No me gusta."; negación
+;"¿Qué es esto?"; pregunta
+;"¿Dónde está mi juguete?"; pregunta
+;"¿Por qué?"; pregunta
+;"Estoy feliz"; emoción
+;"Estoy enfadado"; emoción
+;"Estoy triste"; emoción
+;"El perro es marrón."; descripción
+;"La casa es grande."; descripción
+;"El cielo es azul."; descripción
+;"El balón está detrás de la silla."; ubicación
+;"El coche está en el garaje."; ubicación
+;"Yo estoy en la cama."; ubicación
